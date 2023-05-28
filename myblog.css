@@ -1,0 +1,18 @@
+.mybg{
+    background-color: bisque;
+    
+}
+h1,h3,p{
+    text-align: center;
+    font-family: 'Parisienne', cursive;
+font-family: 'ZCOOL KuaiLe', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+h3{
+    font-size: 40px;
+}
+p{
+    font-size: 30px;
+}
